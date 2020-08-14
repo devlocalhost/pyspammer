@@ -10,8 +10,6 @@ tx = input("  Enter the text that you want to spam: ")
 
 nm = input('  Enter the amount of times that you want to spam "{}": '.format(tx))
 
-# spd = input("  Enter the speed that the script should spam the text (example: \n  0.01 seconds, 1 second ,3 ,5): ")
-
 print("  Starting....")
 time.sleep(1)
 print("  PLEASE FOCUS ON A APPS\n  TEXTBOX!!! YOU HAVE 5 SECONDS!!")
@@ -34,7 +32,6 @@ for num in range(int(nm)):
         keyboard.release(letter)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    time.sleep(0.000000000000000000000000000000000000000000000000001)
-    # time.sleep(int(spd))
-
+    time.sleep(0.000000000000000000000000000000000000000000000000001) # you can modify the time and make it slower
+    
 print("  Done")
