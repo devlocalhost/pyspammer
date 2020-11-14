@@ -10,3 +10,6 @@ a python "bot" that spams a specific text as many times you want
 # check out pynput on pypi or github
 * [pypi](https://pypi.org/project/pynput/)
 * [github](https://github.com/moses-palmer/pynput)
+
+# NOTE
+this script requires python 3.4+! It might not work on older versions! (and also it doesnt work on mobiles)
