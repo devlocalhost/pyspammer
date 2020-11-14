@@ -1,6 +1,7 @@
 # pyspammer
 a python "bot" that spams a specific text as many times you want
-![Example](../master/img.png)
+![Example](../master/pic1.png)
+![Example](../master/pic2.png)
 
 # how to use
 * first of all, youll need to install pynput, you can install it by using pip: pip install pynput
