@@ -11,3 +11,6 @@ a python "bot" that spams a specific text as many times you want
 
 # NOTE
 this script requires python 3.4+! It might not work on older versions! (and also it doesnt work on mobiles)
+
+# have an question?
+add me on discord: **.dev64#3346**
