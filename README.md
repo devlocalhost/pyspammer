@@ -3,7 +3,7 @@ a python "bot" that spams a specific text as many times you want
 ![Example](../master/pic1.png)
 ![Example](../master/pic2.png)
 
-# how to use
+# installation
 * first of all, youll need to [install pynput](https://pypi.org/project/pynput/), you can install it by using pip: pip install pynput
 * then [dowload the repo](https://github.com/devlocalhost/pyspammer/archive/master.zip) and extract the zip file
 * then, go to the folder, and open it on your terminal
